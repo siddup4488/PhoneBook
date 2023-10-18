@@ -1,4 +1,4 @@
-## For Running the Project we have to follow somw steps
+## For Running this Project we have to follow some steps
 To run the phone book application, follow these steps:
 - Open a terminal.
 - Navigate to the target directory where the JAR file is located.
